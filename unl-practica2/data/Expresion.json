@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "expresion": "505",
+        "isCorrecto": true
+    },
+    {
+        "id": 2,
+        "expresion": "Artic",
+        "isCorrecto": true
+    }
+]

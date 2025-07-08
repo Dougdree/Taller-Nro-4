@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombres": "Isauro Rivera",
+        "nacionalidad": "Ecuatoriana"
+    },
+    {
+        "id": 2,
+        "nombres": "Pool Ochao",
+        "nacionalidad": "Ecuatoriana"
+    },
+    {
+        "id": 3,
+        "nombres": "Viviana",
+        "nacionalidad": "Andorra"
+    }
+]

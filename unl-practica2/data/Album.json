@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Shawn",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Chase Atlantic",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 2
+    },
+    {
+        "id": 3,
+        "nombre": "Dangerous",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 3
+    },
+    {
+        "id": 4,
+        "nombre": "Lo Mejor de Vilma Palma",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 4
+    },
+    {
+        "id": 5,
+        "nombre": "Tribalistas",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 5
+    },
+    {
+        "id": 6,
+        "nombre": "CNCO",
+        "fecha": "May 17, 2025, 12:12:43 PM",
+        "id_banda": 6
+    }
+]

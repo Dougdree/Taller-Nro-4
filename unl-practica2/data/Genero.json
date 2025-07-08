@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "POP"
+    },
+    {
+        "id": 2,
+        "nombre": "Rock"
+    },
+    {
+        "id": 3,
+        "nombre": "MPB"
+    }
+]
